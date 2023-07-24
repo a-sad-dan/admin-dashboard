@@ -5,7 +5,7 @@
 }
 :root
 {
-  --primary-color : #153f8f;
+  --primary-color : #0071d4;
 }
 .page-wrapper {
   height: 100vh;
@@ -151,7 +151,7 @@ img.profile-icon:nth-child(1) {
 
 .actions button {
   padding: 0.6rem 1.2rem;
-  background-color: var(--primary-color);
+  background-color: var(--pr);
   color: #f0f8ff;
   border: 0;
   border-radius: 50px;
@@ -182,7 +182,7 @@ img.profile-icon:nth-child(1) {
   background-color: white;
   padding: 1.4rem;
   border-radius: 12px;
-  border-left: 8px solid #e4b901;
+  border-left: 8px solid #68b8ff;
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
